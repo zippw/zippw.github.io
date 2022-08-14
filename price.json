@@ -13,35 +13,35 @@
             "Вёрстка страницы с мокапа или картинки"
         ],
         "styles": [
-            "background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);",
-            "background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);",
-            "background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);",
-            "background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);"
+            "linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%)",
+            "linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%)",
+            "linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%)",
+            "linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%)"
         ],
         "table_items": [
             {
                 "name": "Лэндинг",
                 "design_from_scratch": true,
                 "animations": true,
-                "price": "6К"
+                "price": "6т."
             },
             {
                 "name": "Лэндинг",
                 "design_from_scratch": true,
                 "animations": false,
-                "price": "5К"
+                "price": "5т."
             },
             {
                 "name": "Лэндинг",
                 "design_from_scratch": false,
                 "animations": true,
-                "price": "2,5К"
+                "price": "2,5т."
             },
             {
                 "name": "Лэндинг",
                 "design_from_scratch": false,
                 "animations": false,
-                "price": "1,5К"
+                "price": "1,5т."
             }
         ]
     },
@@ -56,9 +56,9 @@
             "Тип шаблонный. В него входят типичные разметки, такие как grid, table, ul списки и тд. Можно заказать несколько страниц для одного вебсайта"
         ],
         "styles": [
-            "background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);",
-            "background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);",
-            "background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);"
+            "linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%)",
+            "linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%)",
+            "linear-gradient(120deg, #f6d365 0%, #fda085 100%)"
         ],
         "table_items": [
             {
@@ -67,11 +67,11 @@
             },
             {
                 "name": "Electron приложение",
-                "price": "3К+"
+                "price": "3т."
             },
             {
                 "name": "Адаптивная вёрстка 1 стр.",
-                "price": "1К+"
+                "price": "1т."
             }
         ]
     }
